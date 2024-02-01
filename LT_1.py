@@ -1,3 +1,5 @@
+#Step by step code to create a languange translator
+
 # Step 1 Import Module
 from tkinter import *
 from translate import Translator
